@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html>
+<title>Yuqin Wu</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<style>
+html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
+</style>
+<body class="w3-light-grey">
+
+<!-- Page Container -->
+<div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+  <!-- The Grid -->
+  <div class="w3-row-padding">
+  
+    <!-- Left Column -->
+    <div class="w3-third">
+    
+      <div class="w3-white w3-text-grey w3-card-4">
+        <div class="w3-display-container">
+          <img src="avatar.jpg" style="width:100%" alt="Avatar">
+          <div class="w3-display-bottomleft w3-container w3-text-black">
+            <h2 style="color:white">Yuqin Wu</h2>
+          </div>
+        </div>
+        <div class="w3-container">
+          <p><i class="fa fa-user-circle fa-fw w3-margin-right w3-large w3-text-teal"></i>Student, Master degree in Computer Science</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Chicago, IL, US</p>
+          <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>sevenw67@gmail.com</p>
+          <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>858-436-4564</p>
+          <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://docs.google.com/document/d/1zOOpVdB7Wvh31MjeeqZKSEeoNr6RF6WWTnwbQ8Cmt5k/edit?usp=sharing" target="_blank">Resume</a></p>
+          <p><i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://www.linkedin.com/in/yuqin-wu-3a223b106" target="_blank">LinkedIn</a></p>
+          <hr>
+
+          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <p>C/C++/Java/Python</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
+          </div>
+          <p>MySQL/PHP/Golang/MATLAB</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">
+              <div class="w3-center w3-text-white">70%</div>
+            </div>
+          </div>
+          <p>Shell Script/Html/CSS/Javascript</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+          </div>
+          <p>SPARC Assembly/Ruby on Rails</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">30%</div>
+          </div>
+          <br>
+
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Languages</b></p>
+          <p>English</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:90%"></div>
+          </div>
+          <p>Chinese</p>
+          <div class="w3-light-grey w3-round-xlarge">
+            <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div>
+          </div>
+          <br>
+        </div>
+      </div><br>
+
+    <!-- End Left Column -->
+    </div>
+
+    <!-- Right Column -->
+    <div class="w3-twothird">
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>The University of Chicago</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - <span class="w3-tag w3-teal w3-round">Current</span> (expect Dec 2019 )</h6>
+          <p>MS in Computer Science <br> Overall GPA: 3.77</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>The University of California, San Diego</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2013 - Mar 2017</h6>
+          <p>BS in Computer Science <br> Major GPA: 3.65</p>
+          <hr>
+        </div>
+      </div>
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Software Technical Consulting Engineer Intern / Intel Corporation. Santa Clara, CA</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
+          <p>● Role as a member of the Technical Consulting Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
+          ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
+          ● Documented a hands-on lab guiding customers to use the toolkit easily refactor existing code to Intel version, achieving the best performance for different hardware. Lab document to be released publically with the toolkit.<br>
+          ● Implemented code samples and experiments so as to better illustrate to customers the advantage of incorporating Intel toolkits and hardware. Code samples will be included in the Lab document.<br>
+          ● Created demo for customers to illustrate the performance difference code samples running on Intel platform among others, presented on different conferences.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Manager / Shenzhen Xinrunda Technology Development Co., Ltd. Shenzhen, China</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2018 - Sep 2018</h6>
+          <p>● Designed and released a new company management system for each department and the whole company. <br>
+          ● Re-design the staff performance appraisal for the sales department and the purchasing department.<br>
+          ● Re-design the algorithms and rules for wages calculation for all departments.<br>
+          ● Re-design the distribution of workload for all departments.<br>
+          ● Assure the increment of wages properly proportional to the increment of profit and each of the staff's contribution.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>AI Engineer​ / Beijing Magic AI Corp. Beijing, China</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2017 - Aug 2018</h6>
+          <p>● Role as the main designer and manager of all core AI projects, and leader of the AI development group.<br>
+          ● Designed and implemented core AI-related functionalities needed for a virtual avatar system, such as the Dialog System and 3D Face Reconstruction.<br>
+          ● Studied the state-of-art AI-related technologies and research papers, and integrated into our projects. Designed and composed all patents relevant to our projects, and created workflows for outlines of each system.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Tutor​ / CSE Department, University of California, San Diego, CA</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2015 - Dec 2015 / June 2016 - Aug 2016 / Jan 2017 - Mar 2017</h6>
+          <p>● Tutored students by holding office hours weekly to answer questions about assignments and programming.<br> ● Assisted professor in grading homework and exams, and answer questions posted on website.<br>● Attended weekly seminars on effective practices for coaching undergraduates in programming.</p>
+          <hr>
+        </div>
+      </div>
+  
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-flask fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Research Experience</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>HD computing for word part-of-speech classification​ ​/ SEE Lab, CSE Department, UCSD</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - Mar 2017</h6>
+          <p>● Used Hyper Dimensional Vector Model and machine learning algorithm to design and develop a project to automatically classify different part-of-speech in English, a subpart of the text & voice recognition project.<br>
+            ● Reached a satisfied accuracy (92%) and the research paper can be viewed here: <a href="https://docs.google.com/document/d/1fOYwyP5ro4MP83aXdg5cEPXILYi30t9m3qG3UMa2QzE/edit?usp=sharing" target="_blank">Research Paper</a></p>
+          <hr>
+        </div>
+
+      </div>
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Project</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Distributed System with RAFT algorithm</b> / in Python ​<br>University of Chicago</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2019 - Jun 2019</h6>
+          <p>● Implemented a distributed system using the RAFT consensus algorithm.<br>
+            ● CRUD operations for data are supported through any single node.<br>
+            ● Error handling and fault tolerance are supported. The system keeps functional correctly even with at most n/2 -1 nodes down, where n > 2 nodes.<br>
+            ● The system was designed with great extensibility and modularity in that the RAFT consensus algorithm and other functionalities are designed with Object-Oriented Programming concept.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Multi-threaded Parallel Image Effect Processing Project</b> / in Golang ​<br>University of Chicago</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2019 - Jun 2019</h6>
+          <p>● Implemented an image effect, such as edge detection, blurring, and sharpening, processing program incorporating with multi-threaded technique.<br>
+            ● Implemented low-level synchronization primitives such as Anderson lock, Exponential Backoff lock, ttas lock, read-write lock, semaphore, barrier, condition variable, wait group, and etc.<br>
+            ● Designed the algorithm incorporating both data parallelism and functional parallelism, by using some of the low-level synchronization primitives list above to achieve the best performance.<br>
+            ● The program supports user assigned number of threads, from 1 to infinity.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Academic Grading System</b> / in PHP, HTML, MySQL ​<br>University of Chicago</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2019 - Mar 2019</h6>
+          <p>● An academic grading system supports sign up with different roles, professor/student, and log in/log out.<br>
+            ● Webpage display dynamic content based on the role of the user. Students can only view their own courses/assignments/grades, while professors have more functionalities available such as CRUD operations on courses/assignments/grades for all students registered for their courses.<br>
+            ● Not focused on frontend but the system is fully functional with backend and MySQL database support.<br>
+            ● Demo: <a href="grading_system.php" target="_blank">Grading System</a></p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Intelligent Dialog System with Memory System</b> / in Python ​<br>Beijing Magic AI Corp.</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2017 - Mar 2018</h6>
+          <p>● Independently researched and implemented the first Chinese dialog system with Memory System, in China.<br> 
+            ● Applied grammar and dependency analysis to extract, classify, and memorize keywords in a sentence. The keywords stored can be fetched instantly as the supplementary information for responses to users question.<br> 
+            ● Improved user experience drastically by increasing the intelligence of the dialog system and the depth of the meaning of responses.<br>
+            ● Great extensibility. It can be extended in various way to boost its memory ability. With a strong flexibility, it ensures a free and easy follow-up development.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>3D Face Model Construction with a Single Image​ </b>/ in Python, C++ <br> Beijing Magic AI Corp.</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2017 - Oct 2017</h6>
+          <p>● Designed and implement a 3D face model construction system using only a single face image, eg. selfie.<br>
+            ● Used OpenCV to locate the face in the image, used 3DMM Morphable Face Model(PCA Model) as the model,and used 4dface to extract and map the skin and texture.<br>
+            ● Adding some skin and the texture optimizations to make it look more natural and smooth.</p>
+          <hr>
+        </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Amazon Food Rating Prediction</b> ​/ in Python <br>University of California, San Diego</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2015 - Dec 2015</h6>
+          <p>● Using linear regression, ridge regression, and Latent-factor models, based on the reviews of the food and relevant data to predict the rating of a food product. The result is fairly accurate after the training.<br> ● As the group leader, selected the models and right approaches, dispatch the work, and also wrote the report.<br>● The report can be viewed here: <a href="https://docs.google.com/document/d/1HX2fM9chIATElAsGU6_GXvxzjvN7jVtMN1XBipZ-rQU/edit?usp=sharing" target="_blank">Project Report</a></p>
+          <hr>
+        </div>
+      </div>
+    <!-- End Right Column -->
+    </div>
+    
+  <!-- End Grid -->
+  </div>
+  
+  <!-- End Page Container -->
+</div>
+
+<footer class="w3-container w3-teal w3-center w3-margin-top">
+  <p>Find me on social media.</p>
+  <a href="https://www.linkedin.com/in/yuqin-wu-3a223b106" target="_blank">
+  <i class="fa fa-linkedin w3-hover-opacity"></i></a>
+  <a href="https://www.facebook.com/yuqin.wu.73" target="_blank">
+  <i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+  <a href="https://www.instagram.com/77seven567" target="_blank">
+  <i class="fa fa-instagram w3-hover-opacity"></i></a>
+  <a href="https://twitter.com/Seven__Wu" target="_blank">
+  <i class="fa fa-twitter w3-hover-opacity"></i></a>
+  <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+</footer>
+
+</body>
+</html>
