@@ -34,6 +34,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>858-436-4564</p>
           <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://docs.google.com/document/d/1zOOpVdB7Wvh31MjeeqZKSEeoNr6RF6WWTnwbQ8Cmt5k/edit?usp=sharing" target="_blank">Resume</a></p>
           <p><i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://www.linkedin.com/in/yuqin-wu-3a223b106" target="_blank">LinkedIn</a></p>
+          <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://github.com/YuqinWu" target="_blank">Github</a></p>
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
@@ -98,9 +99,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
           <p>● Role as a member of the Technical Consulting Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
           ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
-          ● Documented a hands-on lab guiding customers to use the toolkit easily refactor existing code to Intel version, achieving the best performance for different hardware. Lab document to be released publically with the toolkit.<br>
-          ● Implemented code samples and experiments so as to better illustrate to customers the advantage of incorporating Intel toolkits and hardware. Code samples will be included in the Lab document.<br>
-          ● Created demo for customers to illustrate the performance difference code samples running on Intel platform among others, presented on different conferences.</p>
+          ● Documented a 40-page hands-on lab with 2 code samples guiding customers to use the toolkit easily refactor existing code to Intel version, achieving the best performance for different hardware. Lab to be released publicly with the toolkit.<br>
+          ● Created a web demo platform supporting different Deep Learning frameworks/model/dataset, such as tensorflow/BigDL resnet50, imagenet/medical decathlon dataset, running with configurable hardware/software settings to illustrate the performance difference of AI deep-learning code samples running on Intel platform among others, presented on different conferences, such as Strata Data Conference in NYC. </p>
           <hr>
         </div>
         <div class="w3-container">
@@ -117,8 +117,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>AI Engineer​ / Beijing Magic AI Corp. Beijing, China</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2017 - Aug 2018</h6>
           <p>● Role as the main designer and manager of all core AI projects, and leader of the AI development group.<br>
-          ● Designed and implemented core AI-related functionalities needed for a virtual avatar system, such as the Dialog System and 3D Face Reconstruction.<br>
-          ● Studied the state-of-art AI-related technologies and research papers, and integrated into our projects. Designed and composed all patents relevant to our projects, and created workflows for outlines of each system.</p>
+          ● Studied the state-of-art AI-related technologies and research papers, and integrated into our projects.<br>
+          ● Designed and composed 3 patents relevant to our projects, and created workflows for outlines of each system.<br>
+          ● Designed and implemented core AI-related functionalities needed for a virtual avatar system, such as the Dialog System and 3D Face Reconstruction.</p>
           <hr>
         </div>
         <div class="w3-container">
