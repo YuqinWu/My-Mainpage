@@ -32,7 +32,8 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Chicago, IL, US</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>sevenw67@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>858-436-4564</p>
-          <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://docs.google.com/document/d/1zOOpVdB7Wvh31MjeeqZKSEeoNr6RF6WWTnwbQ8Cmt5k/edit?usp=sharing" target="_blank">Resume</a></p>
+          <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://docs.google.com/document/d/1zOOpVdB7Wvh31MjeeqZKSEeoNr6RF6WWTnwbQ8Cmt5k/edit?usp=sharing" target="_blank">Resume(AI)</a></p>
+          <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://docs.google.com/document/d/1iViCK6v8j9nZY9QEQAZvjKiHpg-eW-1e1TT0Cs8MDuo/edit?usp=sharing" target="_blank">Resume(SDE)</a></p>
           <p><i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://www.linkedin.com/in/yuqin-wu-3a223b106" target="_blank">LinkedIn</a></p>
           <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://github.com/YuqinWu" target="_blank">Github</a></p>
           <hr>
