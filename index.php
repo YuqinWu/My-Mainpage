@@ -82,7 +82,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>The University of Chicago</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - <span class="w3-tag w3-teal w3-round">Current</span> (expect Dec 2019 )</h6>
-          <p>MS in Computer Science <br> Overall GPA: 3.77</p>
+          <p>MS in Computer Science <br> Overall GPA: 3.5</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -144,6 +144,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       </div>
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Project</h2>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Auction Website</b> / in HTML/CSS, JavaScript, Python, MySQL ​<br>University of Chicago</h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2019 - Dec 2019</h6>
+          <p>● An academic grading system supports sign up with different roles, professor/student, and log in/log out.<br>
+            ● Webpage display dynamic content based on the role of the user. Students can only view their own courses/assignments/grades, while professors have more functionalities available such as CRUD operations on courses/assignments/grades for all students registered for their courses.<br>
+            ● Not focused on frontend but the system is fully functional with backend and MySQL database support.<br>
+            ● Webpage: <a href="http://13.59.166.200/" target="_blank">Auction Website</a></p>
+          <hr>
+        </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Distributed System with RAFT algorithm</b> / in Python ​<br>University of Chicago</h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2019 - Jun 2019</h6>
