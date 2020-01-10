@@ -33,7 +33,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>sevenw67@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>858-436-4564</p>
           <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://drive.google.com/file/d/1uyvA7dbH0ZmDY9qu9nTDk3rmTBGY-93x/view?usp=sharing" target="_blank">Resume(AI)</a></p>
-          <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://drive.google.com/file/d/1O2taBcwxDkXMwh1Nstcf7L8kHMON2W3i/view?usp=sharing" target="_blank">Resume(SDE)</a></p>
+          <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://drive.google.com/file/d/1-eslC18cQKynT0Y3b_2Fi3EAoExaGIY_/view?usp=sharing" target="_blank">Resume(SDE)</a></p>
           <p><i class="fa fa-linkedin fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://www.linkedin.com/in/yuqin-wu-3a223b106" target="_blank">LinkedIn</a></p>
           <p><i class="fa fa-github fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://github.com/YuqinWu" target="_blank">Github</a></p>
           <hr>
@@ -147,7 +147,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Scrapper: a luxury edition of eBay </b> / in HTML/CSS, JavaScript, Python, MySQL ​<br>University of Chicago</h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2019 - Dec 2019</h6>
-          <p>● Built a web App similar to the eBay website; Used MySQL as the main database; Stored/retrieved latest auction price in MongoDB for fast read/write operations on scalable data; Deployed the website to Amazon AWS server<br>
+          <p>● Built a web App similar to the eBay website; Used MySQL as the main database; Stored/retrieved latest bid price in MongoDB for fast read/write operations on scalable data; Deployed the website to Amazon AWS server<br>
             ● Use Flask to communicate between frontend and backend; Used RabbitMQ as a scheduler, asynchronously sending emails to users when preset events triggered<br>
             ● Webpage: <a href="http://13.59.166.200/" target="_blank">Auction Website</a></p>
           <hr>
