@@ -81,7 +81,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>The University of Chicago</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - <span class="w3-tag w3-teal w3-round">Current</span> (expect Dec 2019 )</h6>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - Dec 2019</h6>
           <p>MS in Computer Science <br> Overall GPA: 3.5</p>
           <hr>
         </div>
@@ -149,6 +149,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2019 - Dec 2019</h6>
           <p>● Built a web App similar to the eBay website; Used MySQL as the main database; Stored/retrieved latest bid price in MongoDB for fast read/write operations on scalable data; Deployed the website to Amazon AWS server<br>
             ● Use Flask to communicate between frontend and backend; Used RabbitMQ as a scheduler, asynchronously sending emails to users when preset events triggered<br>
+            ● Improved the level of modularization by incorporating microservice concept in the design of the entire architecture<br>
             ● Webpage: <a href="http://13.59.166.200/" target="_blank">Auction Website</a></p>
           <hr>
         </div>
