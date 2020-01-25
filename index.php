@@ -137,7 +137,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h5 class="w3-opacity"><b>HD computing for word part-of-speech classification​ ​/ SEE Lab, CSE Department, UCSD</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2017 - Mar 2017</h6>
           <p>● Used Hyper Dimensional Vector Model and machine learning algorithm to design and develop a project to automatically classify different part-of-speech in English, a subpart of the text & voice recognition project.<br>
-            ● Reached a satisfied accuracy (92%) and the research paper can be viewed here: <a href="https://docs.google.com/document/d/1fOYwyP5ro4MP83aXdg5cEPXILYi30t9m3qG3UMa2QzE/edit?usp=sharing" target="_blank">Research Paper</a></p>
+            ● Reached a satisfied accuracy (92%) and the research paper can be viewed here: <a href="https://drive.google.com/file/d/1gCZueBwmbD1LI2HBxFjx24j2eFzM27-w/view?usp=sharing" target="_blank">Research Paper</a></p>
           <hr>
         </div>
 
