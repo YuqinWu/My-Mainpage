@@ -96,7 +96,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Engineer Intern / Intel Corporation Santa Clara, CA</b></h5>
+          <h5 class="w3-opacity"><b>Software Engineer Intern / Intel Corporation, Santa Clara, CA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
           <p>● Role as a member of the Technical Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
           ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
