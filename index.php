@@ -96,9 +96,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Technical Consulting Engineer Intern / Intel Corporation. Santa Clara, CA</b></h5>
+          <h5 class="w3-opacity"><b>Software Engineer Intern / Intel Corporation. Santa Clara, CA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
-          <p>● Role as a member of the Technical Consulting Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
+          <p>● Role as a member of the Technical Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
           ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
           ● Documented a 40-page hands-on lab with 2 code samples guiding customers to use the toolkit easily refactor existing code to Intel version, achieving the best performance for different hardware. Lab to be released publicly with the toolkit.<br>
           ● Created a web demo platform supporting different Deep Learning frameworks/model/dataset, such as tensorflow/BigDL resnet50, imagenet/medical decathlon dataset, running with configurable hardware/software settings to illustrate the performance difference of AI deep-learning code samples running on Intel platform among others, presented on different conferences, such as Strata Data Conference in NYC. </p>
@@ -115,7 +115,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>AI Engineer​ / Beijing Magic AI Corp. Beijing, China</b></h5>
+          <h5 class="w3-opacity"><b>Software Engineer (AI Engineer)​ / Beijing Magic AI Corp. Beijing, China</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2017 - Aug 2018</h6>
           <p>● Role as the main designer and manager of all core AI projects, and leader of the AI development group.<br>
           ● Studied the state-of-art AI-related technologies and research papers, and integrated into our projects.<br>
