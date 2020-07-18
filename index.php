@@ -29,7 +29,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         </div>
         <div class="w3-container">
           <p><i class="fa fa-user-circle fa-fw w3-margin-right w3-large w3-text-teal"></i>Student, Master degree in Computer Science</p>
-          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Milpitas, CA, US</p>
+          <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bellevue, WA, US</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>sevenw67@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>858-436-4564</p>
           <p><i class="fa fa-file-pdf-o fa-fw w3-margin-right w3-large w3-text-teal"></i><a href="https://drive.google.com/file/d/1uyvA7dbH0ZmDY9qu9nTDk3rmTBGY-93x/view?usp=sharing" target="_blank">Resume(AI)</a></p>
@@ -43,19 +43,19 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div>
           </div>
-          <p>MySQL/PHP/Golang/MATLAB</p>
+          <p>MySQL/PHP/Golang</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:70%">
               <div class="w3-center w3-text-white">70%</div>
             </div>
           </div>
-          <p>Shell Script/Html/CSS/Javascript</p>
+          <p>/Html/CSS/Javascript/MATLAB</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:60%">60%</div>
           </div>
-          <p>SPARC Assembly/Ruby on Rails</p>
+          <p>Shell Script/Ruby on Rails</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:30%">30%</div>
+            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:40%">40%</div>
           </div>
           <br>
 
@@ -82,7 +82,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>The University of Chicago</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - Dec 2019</h6>
-          <p>MS in Computer Science <br> Overall GPA: 3.5</p>
+          <p>MS in Computer Science <br> Overall GPA: 3.58</p>
           <hr>
         </div>
         <div class="w3-container">
@@ -96,22 +96,20 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
+          <h5 class="w3-opacity"><b>Software Development Engineer / Amazon, Seattle, WA</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2020 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
+          <p>● (To be completed) Assure server system operation in healthy on million requests level <br>
+          ● Help implemented service to collect, convert, and dispatch data with component design <br>
+          ● Service operated acts as the centre hub for the entire prime video product</p>
+          <hr>
+        </div>
+        <div class="w3-container">
           <h5 class="w3-opacity"><b>Software Engineer Intern / Intel Corporation, Santa Clara, CA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
           <p>● Role as a member of the Technical Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
           ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
           ● Documented a 40-page hands-on lab with 2 code samples guiding customers to use the toolkit easily refactor existing code to Intel version, achieving the best performance for different hardware. Lab to be released publicly with the toolkit.<br>
           ● Created a web demo platform supporting different Deep Learning frameworks/model/dataset, such as tensorflow/BigDL resnet50, imagenet/medical decathlon dataset, running with configurable hardware/software settings to illustrate the performance difference of AI deep-learning code samples running on Intel platform among others, presented on different conferences, such as Strata Data Conference in NYC. </p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>Manager / Shenzhen Xinrunda Technology Development Co., Ltd. Shenzhen, China</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2018 - Sep 2018</h6>
-          <p>● Designed and released a new company management system for each department and the whole company. <br>
-          ● Re-design the staff performance appraisal for the sales department and the purchasing department.<br>
-          ● Re-design the algorithms and rules for wages calculation for all departments.<br>
-          ● Re-design the distribution of workload for all departments.<br>
-          ● Assure the increment of wages properly proportional to the increment of profit and each of the staff's contribution.</p>
           <hr>
         </div>
         <div class="w3-container">
