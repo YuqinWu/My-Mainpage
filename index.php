@@ -28,7 +28,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           </div>
         </div>
         <div class="w3-container">
-          <p><i class="fa fa-user-circle fa-fw w3-margin-right w3-large w3-text-teal"></i>Student, Master degree in Computer Science</p>
+          <p><i class="fa fa-user-circle fa-fw w3-margin-right w3-large w3-text-teal"></i>Software Development Engineer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Bellevue, WA, US</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>sevenw67@gmail.com</p>
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>858-436-4564</p>
