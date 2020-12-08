@@ -86,7 +86,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><img src="img/UCSD.png" style="width:7%" alt="UCSD"><img src="img/UCSDText.png" style="width:25%" alt="UCSDText"></h5>
+          <h5 class="w3-opacity"><img src="img/UCSD.png" style="width:6%" alt="UCSD"><img src="img/UCSDText.png" style="width:25%" alt="UCSDText"></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2013 - Mar 2017</h6>
           <p>BS in Computer Science <br> Major GPA: 3.65</p>
           <hr>
