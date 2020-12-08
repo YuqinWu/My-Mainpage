@@ -147,7 +147,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p>● Built a web App similar to the eBay website; Used MySQL as the main database; Stored/retrieved latest bid price in MongoDB for fast read/write operations on scalable data; Deployed the website to Amazon AWS server<br>
             ● Use Flask to communicate between frontend and backend; Used RabbitMQ as a scheduler, asynchronously sending emails to users when preset events triggered<br>
             ● Improved the level of modularization by incorporating microservice concept in the design of the entire architecture<br>
-            ● Webpage: <a href="../Scrapper/index.html" target="_blank">Auction Website</a></p>
+            ● Webpage: <a href="~/yuqinwu/Scrapper/index.html" target="_blank">Auction Website</a></p>
           <hr>
         </div>
         <div class="w3-container">
