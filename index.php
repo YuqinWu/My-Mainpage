@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="avatar.jpg" style="width:100%" alt="Avatar">
+          <img src="img/avatar.jpg" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
             <h2 style="color:white">Yuqin Wu</h2>
           </div>
@@ -96,7 +96,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Development Engineer / </b> <img src="amazon-prime-video.png" style="width:13%" alt="Amazon"><b>, Seattle, WA</b></h5>
+          <h5 class="w3-opacity"><b>Software Development Engineer / </b> <img src="img/amazon-prime-video.png" style="width:13%" alt="Amazon"><b>, Seattle, WA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2020 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
           <p>● Acted as the core engineer and operational role in Amazon Prime Video tier-1 team, the only data gathering and distribution hub, responsible for vending data with millions of requests per minute at 99.99% accuracy supporting various platforms including Web, Android, iOS, and various smart TV OS <br>
           ● Implemented several components and integrated services supporting Prime Video customer experiences including customer reviews, video title decoration data, and cache resilience system <br>
@@ -104,7 +104,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Software Engineer Intern / </b> <img src="intel.png" style="width:50%" alt="Intel"><b>, Santa Clara, CA</b></h5>
+          <h5 class="w3-opacity"><b>Software Engineer Intern / </b> <img src="img/intel.png" style="width:50%" alt="Intel"><b>, Santa Clara, CA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
           <p>● Role as a member of the Technical Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
           ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
