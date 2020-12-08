@@ -98,9 +98,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Software Development Engineer / Amazon Inc., Seattle, WA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2020 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>● (To be completed) Assure server system operation in healthy on million requests level <br>
-          ● Help implemented service to collect, convert, and dispatch data with component design <br>
-          ● Service operated acts as the centre hub for the entire prime video product</p>
+          <p>● Acted as the core engineer and operational role in Amazon Prime Video tier-1 team, the only data gathering and distribution hub, responsible for vending data with millions of requests per minute at 99.99% accuracy supporting various platforms including Web, Android, iOS, and various smart TV OS <br>
+          ● Implemented several components and integrated services supporting Prime Video customer experiences including customer reviews, video title decoration data, and cache resilience system <br>
+          ● Perform rotated on-call duty solving customer-facing and real-time issues across the entire Prime video product to ensure the stability of Amazon Prime Video services </p>
           <hr>
         </div>
         <div class="w3-container">
@@ -108,7 +108,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2019 - Sep 2019</h6>
           <p>● Role as a member of the Technical Engineer team. Discover hidden technical problems for products, improve customer experience, and solve technical issues customers might have.<br>
           ● From a customer's point of view, studied, tested, and documented user experience feedback on Intel innovative state-of-art toolkits and concepts.<br>
-          ● Documented a 40-page hands-on lab with 2 code samples guiding customers to use the toolkit easily refactor existing code to Intel version, achieving the best performance for different hardware. Lab to be released publicly with the toolkit.<br>
           ● Created a web demo platform supporting different Deep Learning frameworks/model/dataset, such as tensorflow/BigDL resnet50, imagenet/medical decathlon dataset, running with configurable hardware/software settings to illustrate the performance difference of AI deep-learning code samples running on Intel platform among others, presented on different conferences, such as Strata Data Conference in NYC. </p>
           <hr>
         </div>
@@ -117,7 +116,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jul 2017 - Aug 2018</h6>
           <p>● Role as the main designer and manager of all core AI projects, and leader of the AI development group.<br>
           ● Studied the state-of-art AI-related technologies and research papers, and integrated into our projects.<br>
-          ● Designed and composed 3 patents relevant to our projects, and created workflows for outlines of each system.<br>
+          ● Designed and composed 3 patents relevant to our projects, designed and created architecture for each system.<br>
           ● Designed and implemented core AI-related functionalities needed for a virtual avatar system, such as the Dialog System and 3D Face Reconstruction.</p>
           <hr>
         </div>
