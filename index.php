@@ -80,13 +80,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><img src="img/uchicago.gif" style="width:25%" alt="uchicago"><b> ---- The University of Chicago</b></h5>
+          <h5 class="w3-opacity"><img src="img/uchicago.gif" style="width:25%" alt="uchicago"></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - Dec 2019</h6>
           <p>MS in Computer Science <br> Overall GPA: 3.58</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>The University of California, San Diego</b></h5>
+          <h5 class="w3-opacity"><img src="img/UCSD.png" style="width:25%" alt="UCSD"><img src="img/UCSDText.png" style="width:25%" alt="UCSDText"></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2013 - Mar 2017</h6>
           <p>BS in Computer Science <br> Major GPA: 3.65</p>
           <hr>
