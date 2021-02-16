@@ -82,13 +82,13 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><img src="img/uchicago.gif" style="width:25%" alt="uchicago"></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2018 - Dec 2019</h6>
-          <p>MS in Computer Science <br> Overall GPA: 3.58</p>
+          <p>M.S. in Computer Science </p>
           <hr>
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><img src="img/UCSD.png" style="width:6%" alt="UCSD"><img src="img/UCSDText.png" style="width:25%" alt="UCSDText"></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Sep 2013 - Mar 2017</h6>
-          <p>BS in Computer Science <br> Major GPA: 3.65</p>
+          <p>B.S. in Computer Science </p>
           <hr>
         </div>
       </div>
