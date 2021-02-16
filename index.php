@@ -98,9 +98,9 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Software Development Engineer / </b> <img src="img/amazon-prime-video.png" style="width:14%" alt="Amazon"><b>, Seattle, WA</b></h5>
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>April 2020 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>● Acted as the core engineer and operational role in Amazon Prime Video tier-1 team, the only data gathering and distribution hub, responsible for vending data with millions of requests per minute at 99.99% accuracy supporting various platforms including Web, Android, iOS, and various smart TV OS <br>
-          ● Implemented several components and integrated services supporting Prime Video customer experiences including customer reviews, video title decoration data, and cache resilience system <br>
-          ● Perform rotated on-call duty solving customer-facing and real-time issues across the entire Prime video product to ensure the stability of Amazon Prime Video services </p>
+          <p>● Acted as the core engineer and operational role in Amazon Prime Video tier-1 team, the only data gathering and distribution hub, responsible for vending data with millions of requests per minute at 99.99% availability and accuracy supporting various platforms including Web, Android, iOS, and various smart TV OS <br>
+          ● Designed, implemented, and launched several components and integrated services supporting Prime Video customer experiences including all videos and live events title-related data decoration, customer reviews, entitlements and etc. <br>
+          ● Perform rotated on-call duty solving customer-facing and real-time issues across the entire Prime video product to ensure the stability and accuracy of Amazon Prime Video services </p>
           <hr>
         </div>
         <div class="w3-container">
